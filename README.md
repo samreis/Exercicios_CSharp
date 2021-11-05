@@ -27,8 +27,8 @@ double medida = 53.234567;
 
 ````
 Produtos:
-Computador cujo preço é $ 2100,00
-Mesa de escritório cujo preço é $ 650,50
+Computador, cujo preço é $ 2100,00
+Mesa de escritório, cujo preço é $ 650,50
 
 Registro: 30 anos de idade, código 5290 e gênero: M
 
